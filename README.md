@@ -32,3 +32,9 @@ sno | name | college
 
 :kiss:
 
+how to initialize github 
+- [x] git init
+- [] git remote
+- [] git add
+- [] git close
+
