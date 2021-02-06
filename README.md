@@ -30,3 +30,5 @@ sno | name | college
 
 :innocent:
 
+:kiss:
+
